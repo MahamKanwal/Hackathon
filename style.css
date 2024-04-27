@@ -1,0 +1,26 @@
+body{
+background-color:#ECDBFA;
+
+}
+.lead{
+    color: #8E54E9;
+font-size: 52px;
+font-weight: 700;
+line-height: 60.94px;
+text-align: left;
+}
+.para{
+font-size: 18px;
+font-weight: 400;
+line-height: 26px;
+text-align: left;
+color: #505258;
+}
+.started button{
+ padding: 5px 26px 5px 26px; 
+ border-radius: 5px 0px 0px 0px;
+opacity: 0px;
+}  
+.laptop img{
+  width: 200% !important; 
+}
